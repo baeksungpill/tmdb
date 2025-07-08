@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tmdb/static/css/main.fdec648b.css",
+    "main.css": "/tmdb/static/css/main.10b16539.css",
     "main.js": "/tmdb/static/js/main.0123f03a.js",
     "index.html": "/tmdb/index.html",
-    "main.fdec648b.css.map": "/tmdb/static/css/main.fdec648b.css.map",
+    "main.10b16539.css.map": "/tmdb/static/css/main.10b16539.css.map",
     "main.0123f03a.js.map": "/tmdb/static/js/main.0123f03a.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdec648b.css",
+    "static/css/main.10b16539.css",
     "static/js/main.0123f03a.js"
   ]
 }
