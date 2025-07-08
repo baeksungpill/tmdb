@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tmdb/static/css/main.7fc8ff56.css",
+    "main.js": "/tmdb/static/js/main.0123f03a.js",
+    "index.html": "/tmdb/index.html",
+    "main.7fc8ff56.css.map": "/tmdb/static/css/main.7fc8ff56.css.map",
+    "main.0123f03a.js.map": "/tmdb/static/js/main.0123f03a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fc8ff56.css",
+    "static/js/main.0123f03a.js"
+  ]
+}
